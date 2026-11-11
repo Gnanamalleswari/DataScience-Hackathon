@@ -89,11 +89,7 @@ display(missing_summary.round(2))
 
 # Check duplicate rows
 
-print("Duplicate rows in training dataset:",
-      train_df.duplicated().sum())
 
-print("Duplicate rows in testing dataset:",
-      test_df.duplicated().sum())
 
 """#Step 9 — Check duplicate respondent IDs"""
 
