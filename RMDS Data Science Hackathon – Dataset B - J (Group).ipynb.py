@@ -487,7 +487,6 @@ print("Unexpected features:",
 
 """#Step 24 — Build the preprocessing pipeline
 
-Import preprocessing tools
 """
 
 from sklearn.impute import SimpleImputer
