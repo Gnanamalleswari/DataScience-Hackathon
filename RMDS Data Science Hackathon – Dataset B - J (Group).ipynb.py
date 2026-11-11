@@ -41,7 +41,7 @@ print("Submission dataset:", submission_df.shape)
 
 # Display all column names and their data types
 
-print("TRAINING DATASET INFORMATION\n")
+print("TRAINING \n")
 
 print(train_df.dtypes)
 
