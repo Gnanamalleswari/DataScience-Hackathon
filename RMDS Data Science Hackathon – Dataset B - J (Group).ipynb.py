@@ -156,7 +156,7 @@ target_percentages = (
     train_df['h1n1_vaccine'].value_counts(normalize=True) * 100
 )
 
-print("Vaccination Counts:")
+print("Vaccination Count:")
 print(target_counts)
 
 print("\nVaccination Percentages:")
